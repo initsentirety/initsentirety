@@ -1,6 +1,7 @@
 # 👋 Welcome to **In It's Entirety**! 🌍
 
-### 🌌 Dive deep, explore more, and connect the dots across our world’s most intriguing topics! 🌌
+> [!info] **Welcome!**
+> 🌌 Dive deep, explore more, and connect the dots across our world’s most intriguing topics! 🌌
 
 ---
 
