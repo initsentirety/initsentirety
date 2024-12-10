@@ -25,6 +25,7 @@ Stay updated on our latest content, community projects, and discussions across s
 - ✍️ **Medium:** [@initsentirety](https://medium.com/@initsentirety)
 - 🎮 **Twitch:** [@initsentirety](https://www.twitch.tv/initsentirety)
 - 📌 **Pinterest:** [@initsentirety](https://www.pinterest.com/initsentirety/)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31798VA)
 
 ---
 
