@@ -4,6 +4,37 @@
 
 ---
 
+<!-- 🚀 Cosmic Starfield Background (adjust URL to your own hosted starfield GIF) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKy6YWzjgKXNOnq/giphy.gif" alt="Starfield" width="100%" />
+</p>
+
+<!-- 🌌 ASCII Ship Banner -->
+<pre align="center">
+       .                                                      .
+        \`-._           _,'|             _.-'/ 
+         \   `-..____,.'   |          ,-'   /
+          `.            _,'|        ,'_    / 
+            `-._     _.-'   |    _.-'  /   `  
+                77jj'        |  ,'      |    |
+               //_||         |,'        |    |
+            __//--'/\        `          |    | 
+          ,--'/ `  '  `.                 |    |
+</pre>
+
+<h1 align="center">👋 Welcome aboard **In It’s Entirety** 🌍</h1>
+<p align="center">
+  <i>Your starship for deep dives into <b>Geopolitics</b>, <b>Science</b>, <b>Technology</b>, <b>History</b>, <b>Nature</b>, <b>Economics</b>, and beyond…</i>
+</p>
+
+<p align="center">
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=InItsEntirety&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" /> 
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InItsEntirety&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+
 ### 🔹 About Us
 **In It's Entirety** is more than just a channel; it's a journey into the vast realms of **geopolitics 🕹️, science 🧬, technology 🚀, history 📜, nature 🌿, economics 💹, and more!** Our goal is to uncover and connect the hidden layers of our world, offering insights and sparking curiosity in our community.
 
