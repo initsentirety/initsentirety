@@ -1,102 +1,87 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/InItsEntiretyYT/github-assets/main/banner.png" alt="In It's Entirety Banner" style="width: 100%; max-width: 800px; margin-bottom: 20px;">
-  
-  <h1 align="center">
-    👋 Welcome to **In It's Entirety**! 🌍
-  </h1>
+# 👋 Welcome to **In It's Entirety — Dashboard**
 
-  <p align="center">
-    🌌 Dive deep, explore more, and connect the dots across our world’s most intriguing topics! 🌌
-  </p>
-  
-  <p align="center">
-    <a href="https://www.youtube.com/@InItsEntiretyYT">
-      <img src="https://img.shields.io/youtube/channel/UCFp3l6NnC5e9t5lX_p_u6fA?style=for-the-badge&logo=youtube&labelColor=1d1d1d&color=ff0000" alt="YouTube Channel">
-    </a>
-    <a href="https://github.com/InItsEntiretyYT">
-      <img src="https://img.shields.io/github/followers/InItsEntiretyYT?style=for-the-badge&logo=github&labelColor=1d1d1d&color=12100e" alt="GitHub Followers">
-    </a>
-    <a href="https://discord.gg/wzVXseJJ">
-      <img src="https://img.shields.io/discord/123456789012345678?style=for-the-badge&logo=discord&labelColor=1d1d1d&color=7289da" alt="Discord Community">
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img src="assets/logo_dark.png" width="120" alt="logo" />
+</p>
+
+<p align="center">
+  <!-- Dynamic badge for latest video (auto-updated via GitHub Actions) -->
+  ![Latest Video](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/latest.json)
+</p>
+
+<p align="center">
+  <!-- Views chart generated automatically -->
+  <img src="assets/chart_views.png" width="700" alt="views over time"/>
+</p>
 
 ---
 
-### 🔹 About Us
-**In It's Entirety** is more than just a channel; it's a journey into the vast realms of **geopolitics 🕹️, science 🧬, technology 🚀, history 📜, nature 🌿, economics 💹, and more!** Our goal is to uncover and connect the hidden layers of our world, offering insights and sparking curiosity in our community.
+## 🎛️ Live Dashboard Cards
 
-- 📺 **Channel Name:** In It's Entirety
-- 📚 **Topics:** Geopolitics, Science, Technology, History, Nature, Economics, Future Trends, Culture, Business, and Sports
-- 💡 **Mission:** To bring captivating stories and fresh perspectives that highlight the complexities and beauty of our interconnected world. 🌏✨
+<!-- Example CPU card -->
+<svg width="300" height="120" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="120" rx="12" fill="#0b1220" />
+  <text x="18" y="28" fill="#9aa7b2" font-size="12" font-family="Segoe UI, Roboto">CPU</text>
+  <text x="260" y="28" fill="#9aa7b2" font-size="12" text-anchor="end">42%</text>
+  <rect x="18" y="40" width="264" height="22" rx="6" fill="#0f1720" />
+  <rect x="18" y="40" width="112" height="22" rx="6" fill="url(#g1)">
+    <animate attributeName="width" values="0;112;92;132;112" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(18,72)">
+    <text x="0" y="16" fill="#7f8a93" font-size="11">Load:</text>
+    <text x="200" y="16" fill="#7f8a93" font-size="11" text-anchor="end">1.23</text>
+  </g>
+</svg>
 
----
-
-### 🔹 Connect With Us 🌐
-Stay updated on our latest content, community projects, and discussions across social media:
-
-<div align="center">
-  <a href="https://www.youtube.com/@InItsEntiretyYT" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40" style="margin: 5px;"></a>
-  <a href="https://instagram.com/in.its.entirety/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" style="margin: 5px;"></a>
-  <a href="https://twitter.com/InItsEntiretyYT" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="40" style="margin: 5px;"></a>
-  <a href="https://facebook.com/profile.php?id=61567896805257" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" style="margin: 5px;"></a>
-  <a href="https://www.reddit.com/r/InItsEntirety/" target="_blank"><img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" width="40" style="margin: 5px;"></a>
-  <a href="https://discord.gg/wzVXseJJ" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" style="margin: 5px;"></a>
-  <a href="https://medium.com/@initsentirety" target="_blank"><img src="https://skillicons.dev/icons?i=medium" alt="Medium" width="40" style="margin: 5px;"></a>
-  <a href="https://www.twitch.tv/initsentirety" target="_blank"><img src="https://skillicons.dev/icons?i=twitch" alt="Twitch" width="40" style="margin: 5px;"></a>
-  <a href="https://www.pinterest.com/initsentirety/" target="_blank"><img src="https://skillicons.dev/icons?i=pinterest" alt="Pinterest" width="40" style="margin: 5px;"></a>
-  <a href="https://ko-fi.com/G2G31798VA" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="40" style="margin: 5px;"></a>
-</div>
-
----
-
-### 🔹 Dynamic Content: Latest from Our Channels 🚀
-#### 🎬 Latest YouTube Video
-#### ✍️ Latest Medium Article
----
-
-### 🔹 Repository Highlights 🌟
-Explore our essential repositories:
-
-- **`content-scripts`** 📜  
-  *Description:* Scripts and resources used to produce video and social media content, including automation tools, templates, and posting scripts for streamlined content distribution.
-
-- **`data-visualizations`** 📊  
-  *Description:* Code for generating data visualizations featured in videos, covering topics such as geopolitics, economic trends, and scientific discoveries. This includes Python scripts, custom libraries, and visualization templates.
-
-- **`community-projects`** 🤝  
-  *Description:* Community-driven projects and collaborative research initiatives. Contributors can participate in ongoing discussions, polls, and ideation sessions to help shape future content.
+*(Repeat cards for Memory, Disk, Network with different values/animations)*
 
 ---
 
-### Additional Repositories
+## 🔹 About Us
+**In It's Entirety** is more than just a channel; it's a journey into the vast realms of **geopolitics 🕹️, science 🧬, technology 🚀, history 📜, nature 🌿, economics 💹, and more!**
 
-- **`research-library`** 📚  
-  *Description:* A comprehensive collection of research documents, articles, and data sources. Used as a reference for content development and deep-dives into complex topics like geopolitics and technology.
-
-- **`web-scrapers`** 🕸️  
-  *Description:* Tools and scripts for gathering real-time data from trusted sources on topics of interest, such as global trends and scientific advancements, to keep our content timely and informative.
-
-- **`video-editing-assets`** 🎞️  
-  *Description:* Resources for video production, including overlays, animations, and video templates. This repository enables efficient editing and maintains the consistent look and feel of our channel’s brand.
-
-- **`social-media-templates`** 📱  
-  *Description:* A collection of templates for posts, stories, and other social media formats. Optimized for engagement on platforms like Instagram, Twitter (X), and Facebook, these templates help ensure each post aligns with our brand’s visual identity.
-
-- **`community-guidelines`** 📑  
-  *Description:* The guidelines and policies for community interaction, contributing to projects, and maintaining a constructive environment. Ideal for collaborators and community members.
-
-- **`analytics-dashboard`** 📈  
-  *Description:* Dashboards and analytics scripts to monitor content performance across YouTube and social media. Includes code for automated reporting on key metrics like views, engagement, and subscriber growth.
-
-- **`future-trends-research`** 🔮  
-  *Description:* Research and predictive models on future trends in fields like technology, economics, and cultural shifts. This repository houses projections, expert insights, and data to fuel our "Future Trends" content.
+- **Channel Name:** In It's Entirety  
+- **Topics:** Geopolitics, Science, Technology, History, Nature, Economics, Future Trends, Culture, Business, Sports  
+- **Mission:** To bring captivating stories and fresh perspectives that highlight the complexities and beauty of our interconnected world. 🌏✨
 
 ---
 
-Feel free to explore these repositories and contribute to our mission of connecting and exploring the world in its entirety! 🌍
+## 🔹 Connect With Us 🌐
+
+- 📺 [YouTube](https://www.youtube.com/@InItsEntiretyYT)
+- 📸 [Instagram](https://instagram.com/in.its.entirety/)
+- 🐦 [X (Twitter)](https://twitter.com/InItsEntiretyYT)
+- 👥 [Facebook](https://facebook.com/profile.php?id=61567896805257)
+- 👾 [Reddit](https://www.reddit.com/r/InItsEntirety/)
+- 💬 [Discord Community](https://discord.gg/wzVXseJJ)
+- ✍️ [Medium](https://medium.com/@initsentirety)
+- 🎮 [Twitch](https://www.twitch.tv/initsentirety)
+- 📌 [Pinterest](https://www.pinterest.com/initsentirety/)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31798VA)
+
 ---
 
-### 📢 **Join Us on This Journey!** 🎉
-We love working with curious minds and passionate explorers! Feel free to explore our repositories, contribute to discussions, or connect with us on social media. Let’s unravel the mysteries of the world together, one discovery at a time! 🌌
+## 🔹 Repository Highlights 🌟
+
+- **`content-scripts` 📜** – Automation tools, templates, and posting scripts.
+- **`data-visualizations` 📊** – Python scripts and templates for visualizations.
+- **`community-projects` 🤝** – Collaborative projects and discussions.
+- **`research-library` 📚** – Research docs and data sources.
+- **`web-scrapers` 🕸️** – Real-time data scrapers.
+- **`video-editing-assets` 🎞️** – Animations and editing templates.
+- **`social-media-templates` 📱** – Branded social content.
+- **`analytics-dashboard` 📈** – Automated metrics tracking.
+- **`future-trends-research` 🔮** – Predictive insights and projections.
+
+---
+
+## 📢 **Join Us on This Journey!** 🎉
+
+Explore, contribute, and collaborate with us to unravel the mysteries of the world, one discovery at a time! 🌌
+
